@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cloc": "^2.0.0-cloc",
+    "pdflatex": "^0.0.1"
+  }
+}
